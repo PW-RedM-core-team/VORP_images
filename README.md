@@ -9,7 +9,9 @@ VORP_Inventory：https://github.com/VORPCORE/VORP-Inventory
 Picture needed for VORP
 # nstallation
 1.navigate to resources\vorp_inventory\html\img\items
+
 2.copy the image items to that folder
+
 3.and you are done!
 
 
